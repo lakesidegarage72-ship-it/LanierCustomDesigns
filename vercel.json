@@ -1,0 +1,13 @@
+{
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": ".",
+  "env": {},
+  "regions": ["iad1"],
+  "functions": {},
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  }
+}
